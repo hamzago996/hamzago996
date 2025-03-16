@@ -1,5 +1,5 @@
 ## Hi there 👋
-- I’m currently working on my coding skills .
+- 🏔️I’m currently working on my coding skills as a sophomore in highschool .
 
 - 🌱 I’m currently learning front-end Web Development using free resources like freeCodeCamp .
 
@@ -9,7 +9,7 @@
 
 - Pronouns: He/Him
 
-- ⚡ Fun fact: hard-working, no messing around.
+- ⚡ Fun fact: I'm hard-working, and started self studying as a sophomore.
 <!--
 **hamzago996/hamzago996** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
